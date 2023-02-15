@@ -5,3 +5,8 @@ https://www.w3schools.com/python/default.asp
 https://www.programiz.com/python-programming
 https://www.geeksforgeeks.org/python-programming-language/
 https://ellibrodepython.com/
+
+https://www.youtube.com/watch?v=AWPQXHR9vmA
+https://academy.zenva.com/product/python-101-introduction-to-programming/
+https://pyscript.net/
+
