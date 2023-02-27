@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=AWPQXHR9vmA
 https://academy.zenva.com/product/python-101-introduction-to-programming/
 https://pyscript.net/
 
+La precisión de la coma flotante en Python
+https://docs.python.org/es/3/tutorial/floatingpoint.html
+
