@@ -13,3 +13,13 @@ https://pyscript.net/
 La precisión de la coma flotante en Python
 https://docs.python.org/es/3/tutorial/floatingpoint.html
 
+Convenciones de nombres y recomendaciones PEP-8
+https://peps.python.org/pep-0008/
+https://realpython.com/python-pep8/
+
+Variable shadowing (sustitución temporal de variable global por local):
+https://www.geeksforgeeks.org/variable-shadowing-in-python/
+
+Built-in Exceptions:
+https://docs.python.org/3/library/exceptions.html
+https://docs.python.org/es/3/library/exceptions.html
