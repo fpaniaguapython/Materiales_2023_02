@@ -23,3 +23,13 @@ https://www.geeksforgeeks.org/variable-shadowing-in-python/
 Built-in Exceptions:
 https://docs.python.org/3/library/exceptions.html
 https://docs.python.org/es/3/library/exceptions.html
+
+CURSOS DE EDUBE (REGISTRO Y ACCESO GRATUITO)
+Recomendados para la preparación del examen de certificación
+PYTHON ESSENTIALS 1 (PYTHON 101(PE1))
+
+CONTENIDOS DE LA CERTIFICACIÓN
+https://pythoninstitute.org/assets/627e61bc29de3989767095.pdf
+
+CHULETA:
+https://static.platzi.com/media/user_upload/lista%20tupla%20dicc-509ade1d-5524-424e-b3af-914b3637eb21.jpg
